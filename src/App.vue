@@ -3,6 +3,7 @@
     <HeaderTailwind />
     <MainSection />    
     <SubSection />
+    <BlogSection />
     <FooterTailwind />
 
   </div>
@@ -13,7 +14,9 @@
 import HeaderTailwind from './components/layout/HeaderTailwind.vue';
 import MainSection from './components/layout/MainSection.vue';
 import SubSection from './components/layout/SubSection.vue';
+import BlogSection from './components/layout/BlogSection.vue';
 import FooterTailwind from './components/layout/FooterTailwind.vue';
+
 
 export default {
   name: 'App',
@@ -21,8 +24,9 @@ export default {
     
     HeaderTailwind,
     MainSection,
-    FooterTailwind,
     SubSection,
+    BlogSection,
+    FooterTailwind,
   }
 }
 </script>
