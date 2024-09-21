@@ -5,7 +5,7 @@
         <!-- Item 1 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
           <div class="relative w-full h-full">
-            <img src="../../assets/images/img1.jpg" class="absolute block w-full h-full object-cover" alt="...">
+            <img src="../../assets/images/main.jpg" class="absolute block w-full h-full object-cover" alt="...">
             <div class="absolute inset-0 flex items-center justify-center flex-col carousel-item-padding">
               <p class="text-white bg-opacity-50 p-2 text-5xl text-shadow-main mobile-text-1">Lorem ipsum dolor sit amet,</p>
               <p class="text-white bg-opacity-50 text-shadow">Lorem ipsum dolor sit amet, consectetur sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
@@ -15,7 +15,7 @@
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
           <div class="relative w-full h-full">
-            <img src="../../assets/images/img2.jpg" class="absolute block w-full h-full object-cover" alt="...">
+            <img src="../../assets/images/img1.jpg" class="absolute block w-full h-full object-cover" alt="...">
             <div class="absolute inset-0 flex items-center justify-center flex-col carousel-item-padding">
               <p class="text-white bg-opacity-50 p-2 text-5xl text-shadow-main mobile-text-1">Lorem ipsum dolor sit amet,</p>
               <p class="text-white bg-opacity-50 text-shadow">Lorem ipsum dolor sit amet, consectetur sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
@@ -25,7 +25,7 @@
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
           <div class="relative w-full h-full">
-            <img src="../../assets/images/img3.jpg" class="absolute block w-full h-full object-cover" alt="...">
+            <img src="../../assets/images/img2.jpg" class="absolute block w-full h-full object-cover" alt="...">
             <div class="absolute inset-0 flex items-center justify-center flex-col carousel-item-padding">
               <p class="text-white bg-opacity-50 p-2 text-5xl text-shadow-main mobile-text-1">Lorem ipsum dolor sit amet,</p>
               <p class="text-white bg-opacity-50 text-shadow">Lorem ipsum dolor sit amet, consectetur sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
@@ -35,7 +35,7 @@
         <!-- Item 4 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item>
           <div class="relative w-full h-full">
-            <img src="../../assets/images/img4.jpg" class="absolute block w-full h-full object-cover" alt="...">
+            <img src="../../assets/images/img3.jpg" class="absolute block w-full h-full object-cover" alt="...">
             <div class="absolute inset-0 flex items-center justify-center flex-col carousel-item-padding">
               <p class="text-white bg-opacity-50 p-2 text-5xl text-shadow-main mobile-text-1">Lorem ipsum dolor sit amet,</p>
               <p class="text-white bg-opacity-50 text-shadow">Lorem ipsum dolor sit amet, consectetur sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
